@@ -1,4 +1,4 @@
-package com.pyolink.account.model;
+package com.pyolink.account.controller;
 
 import com.pyolink.account.model.domain.AccountModel;
 import com.pyolink.account.model.entity.AccountEntity;
